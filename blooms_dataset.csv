@@ -1,0 +1,31 @@
+question,category
+"What is the capital of France?",Remember
+"State the law of conservation of energy.",Remember
+"List the main components of a cell.",Remember
+"Define the term algorithm in computer science.",Remember
+"Name the primary author of the Indian Constitution.",Remember
+"Describe how photosythesis works in plants.",Understand
+"Explain the difference between synchronous and asynchronous execution.",Understand
+"Summarize the main plot of Hamlet.",Understand
+"Illustrate the concept of object-oriented programming.",Understand
+"Interpret the trends shown in the given bar graph.",Understand
+"Calculate the compound interest on $5000 at 6% for 3 years.",Apply
+"Use Ohm's law to determine the current flowing through a circuit.",Apply
+"Implement a quicksort algorithm using recursion in Python.",Apply
+"Apply Bayes Theorem to solve the diagnostic probability question.",Apply
+"Demonstrate how to configure a reverse proxy in Nginx.",Apply
+"Compare and contrast SQL and NoSQL database models.",Analyze
+"Differentiate between supervised and unsupervised machine learning.",Analyze
+"Analyze the root causes of the Great Depression.",Analyze
+"Break down the steps involved in a compiler compilation pipeline.",Analyze
+"Examine the impact of inflation on consumer purchasing power.",Analyze
+"Evaluate the effectiveness of renewable energy policies in Europe.",Evaluate
+"Critique the author's argument regarding AI ethics.",Evaluate
+"Assess the security risks of storing unencrypted passwords in a database.",Evaluate
+"Justify the choice of using microservices architecture over a monolith.",Evaluate
+"Appraise the reliability of a dataset collected through convenience sampling.",Evaluate
+"Design a scalable microservices architecture for an e-commerce platform.",Create
+"Propose a novel solution to reduce urban traffic congestion.",Create
+"Formulate a original hypothesis for the climate change study.",Create
+"Construct an end-to-end Machine Learning pipeline for sentiment analysis.",Create
+"Develop a comprehensive business strategy for an early-stage startup.",Create
